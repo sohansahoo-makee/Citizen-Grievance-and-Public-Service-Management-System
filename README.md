@@ -1,0 +1,2 @@
+# Citizen-Grievance-and-Public-Service-Management-System
+Citizen Grievance &amp; Public Service Management System is a C# and .NET-based enterprise web application designed to provide a centralized platform for citizens to submit, track, and manage grievances and public-service requests. The system enables government departments and authorized officers to efficiently receive, assign, process and find the sol
